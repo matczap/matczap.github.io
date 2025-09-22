@@ -1,2 +1,2 @@
-# matczap.github.io
+# Moja strona
 Stronka
