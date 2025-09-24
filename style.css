@@ -16,14 +16,14 @@ h1, h2 {
 }
 
 header {
-  background: linear-gradient(135deg, #1f2e2b, #fed2e3);
+  background: url('tlo.PNG') center/cover no-repeat;
   color: #ffffff;
   text-align: center;
   padding: 1rem 1rem;
   font-family: 'Cormorant Garamond', serif;
   font-weight: 700;
   font-size: 2rem;
-  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+  text-shadow: 4px 4px 6px rgba(0,0,0,0.3);
   border-bottom: 4px solid #f4c542; /* retro pasek pod nagłówkiem */
 }
 
